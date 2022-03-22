@@ -2,7 +2,7 @@
   
   
   <h1 align="center">Olá 👋, Eu sou Rilton Bispo</h1>
-<h3 align="center">Estudando sobre Front-end , Bahia Brasil</h3>
+<h3 align="center">Começando meus estudos sobre Front-end , Bahia Brasil</h3>
 
 
 - 🔭 Estou trabalhando com **Front-end**
