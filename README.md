@@ -11,7 +11,7 @@
 
 <h2 align="left">Contate me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rilton-bispo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rilton-bispo" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/riltonbispo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riltonbispo" height="20" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yxngbigu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yxngbigu/" height="20" width="30" /></a>
 </p>
 
@@ -20,8 +20,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/Rilton-Bispo">
+  <a href="https://github.com/riltonbispo">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rilton-Bispo&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riltonbispo&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
