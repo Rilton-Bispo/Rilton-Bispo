@@ -7,8 +7,6 @@
 
 - 🔭 Estou trabalhando com **Front-end**
 
-- 🌱 Estou estudando **Html, Css e JavaScript**
-
 <h2 align="left">Contate me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rilton-bispo-460069198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riltonbispo" height="20" width="30" /></a>
