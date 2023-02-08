@@ -4,6 +4,7 @@
 
 
 - 🔭 Estou trabalhando com **Front-end**
+- 🔎 Estou estudando **ReactJs**
 
 <h2 align="left">Contate me:</h2>
 <p align="left">
