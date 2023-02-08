@@ -2,6 +2,8 @@
 <h1 align="center">Olá 👋, Eu sou Rilton Bispo</h1>
 <h3 align="center">sou desenvolvedor Front-end , Bahia Brasil</h3>
 
+Dê uma olhada em meu perfil no Dev.to, estou registrando tudo o que estou aprendendo lá.😉
+https://dev.to/riltonbispo
 
 - 🔭 Estou trabalhando com **Front-end**
 - 🔎 Estou estudando **ReactJs**
