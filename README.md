@@ -6,7 +6,7 @@ Dê uma olhada em meu perfil no Dev.to, estou registrando tudo o que estou apren
 https://dev.to/riltonbispo
 
 - 🔭 Estou trabalhando com **Front-end**
-- 🔎 Estou estudando **ReactJs + TypeScript **
+- 🔎 Estou estudando **ReactJs** & **TypeScript**
 
 <h2 align="left">Contate me:</h2>
 <p align="left">
