@@ -22,10 +22,6 @@ full stack.
 🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
 </pre>
 
-
-
-
-
 <h4 align="left">Contate me:</h4>
 
 <p align="left">
@@ -64,3 +60,4 @@ full stack.
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=riltonbispo&theme=radical" /> </div>
