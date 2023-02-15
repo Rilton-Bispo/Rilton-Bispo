@@ -60,4 +60,3 @@ full stack.
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25" />
 </p>
 
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=riltonbispo&theme=Javascript&border_radius=10&locale=pt_BR" /> </div>
