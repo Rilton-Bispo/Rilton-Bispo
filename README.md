@@ -6,12 +6,11 @@
 <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="300" width="400" align="right" >
 
   
-<pre align="justify" >
-    <p>Dê uma olhada em meu perfil no Dev.to, estou registrando tudo o que estou aprendendo lá.😉 https://dev.to/riltonbispo</p>  
-    <ul>
-      <li>🔭 Estou trabalhando com <b>Front-end</b></li>
-      <li>🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b></li>
-    </ul>
+<pre>
+ Dê uma olhada em meu perfil no Dev.to, estou registrando tudo o que
+estou aprendendo lá.😉 https://dev.to/riltonbispo
+🔭 Estou trabalhando com <b>Front-end</b>
+🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
 </pre>
 
 
