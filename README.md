@@ -7,8 +7,9 @@
 
   
 <pre>
- Dê uma olhada em meu perfil no Dev.to, estou registrando tudo o que
-estou aprendendo lá.😉 https://dev.to/riltonbispo
+ Dê uma olhada em meu perfil no Dev.to,
+ estou registrando tudo o que
+ estou aprendendo lá.😉 https://dev.to/riltonbispo
 🔭 Estou trabalhando com <b>Front-end</b>
 🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
 </pre>
