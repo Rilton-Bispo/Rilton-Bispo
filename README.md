@@ -7,7 +7,7 @@
 
   
 <pre>
-Vindo do mundo do design e estou me aventurando nessa 
+Vindo do mundo do design eu estou me aventurando nessa 
 jornada de desenvolvimento, sou desenvolvedor front end
 (em começo de carreira),mas meu desejo é ser um desenvolvedor 
 full stack.
