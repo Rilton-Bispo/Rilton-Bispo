@@ -7,10 +7,19 @@
 
   
 <pre>
- Dê uma olhada em meu perfil no Dev.to,
- estou registrando tudo o que
-  estou aprendendo lá.😉
+ Dê uma olhada em meu perfil no Dev.to😉
  <a href="https://dev.to/riltonbispo" target="_blank">https://dev.to/riltonbispo</a>
+ 
+ 
+🔭 Estou trabalhando com <b>Front-end</b>
+🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
+</pre>
+
+<pre>
+ Dê uma olhada em meu perfil no Dev.to😉
+ <a href="https://dev.to/riltonbispo" target="_blank">https://dev.to/riltonbispo</a>
+ 
+ 
 🔭 Estou trabalhando com <b>Front-end</b>
 🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
 </pre>
