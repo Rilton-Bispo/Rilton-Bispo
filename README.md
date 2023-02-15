@@ -22,17 +22,6 @@ full stack.
 🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
 </pre>
 
-<h4 align="left">Contate me:</h4>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rilton-bispo-460069198/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- 
-  <a href="https://www.instagram.com/yxngbigu/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
-</p>
 
 <h4 align="left">Front end:</h4>
 <p align="left"> 
@@ -58,5 +47,17 @@ full stack.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25" />
+</p>
+
+<h4 align="left">Contate me:</h4>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rilton-bispo-460069198/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ 
+  <a href="https://www.instagram.com/yxngbigu/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ </a>
 </p>
 
