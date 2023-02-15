@@ -3,16 +3,13 @@
 <h3 align="center">sou desenvolvedor Front-end , Bahia Brasil</h3>
 
 
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="300" width="400" align="right" >
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="260" width="360" align="right" >
 
   
 <pre>
- Dê uma olhada em meu perfil no Dev.to😉
- <a href="https://dev.to/riltonbispo" target="_blank">https://dev.to/riltonbispo</a>
- 
- 
-🔭 Estou trabalhando com <b>Front-end</b>
-🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
+Vindo do mundo do design e estou me aventurando nessa 
+jornada de desenvolvimento, sou desenvolvedor front end(em começo 
+de carreira),mas meu desejo é ser um desenvolvedor full stack.
 </pre>
 
 <pre>
