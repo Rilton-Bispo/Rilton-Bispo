@@ -2,7 +2,7 @@
 <h2 align="center">Olá 👋, Eu sou Rilton Bispo </br> sou desenvolvedor Front-end </h2>
 
 
-<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
+<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="290">
 
 Vindo do mundo do design eu estou me aventurando nessa 
 jornada de desenvolvimento, sou desenvolvedor front end
