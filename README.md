@@ -25,8 +25,8 @@ Dê uma olhada em meu perfil no Dev.to😉
 
 ```javascript
 const rilton = {
-  code: [HTML5, CSS3, Sass, JavaScript, Tailwind ],
-  tools: [React, Ruby on Rails, Node, Git, Figma, Wordpress],
+  code: [HTML5, CSS3, Sass, JavaScript, Ruby ],
+  tools: [React, Rails, Node, Git, Figma, Wordpress, Tailwind],
   learning: [TypeScript]
 }
 ```
