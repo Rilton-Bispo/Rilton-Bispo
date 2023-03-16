@@ -2,17 +2,6 @@
 <h1 align="center">Olá 👋, Eu sou Rilton Bispo</h1>
 
 <h3 align="center">sou desenvolvedor Front-end , Bahia Brasil</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rilton-bispo-460069198/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- 
-  <a href="https://www.instagram.com/yxngbigu/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
-</p>
-
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="260" width="360" align="right" >
 
 
 <pre>
@@ -21,6 +10,16 @@ jornada de desenvolvimento, sou desenvolvedor front end
 (em começo de carreira),mas meu desejo é ser um desenvolvedor 
 full stack.
 </pre>
+ 
+ <p align="left">
+  <a href="https://www.linkedin.com/in/rilton-bispo-460069198/" target="blank">
+    <img align="center" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ 
+  <a href="https://www.instagram.com/yxngbigu/" target="blank">
+    <img align="center" height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ </a>
+</p>
  
 <pre>
  Dê uma olhada em meu perfil no Dev.to😉
