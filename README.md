@@ -3,6 +3,10 @@
 
 <h3 align="center">sou desenvolvedor Front-end , Bahia Brasil</h3>
 
+<div style="display:flex;">
+    <pre>primeira tag pre</pre>
+    <pre>segunda tag pre</pre>
+</div>
 
 <pre>
 Vindo do mundo do design eu estou me aventurando nessa 
