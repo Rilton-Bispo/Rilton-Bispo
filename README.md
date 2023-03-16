@@ -1,7 +1,5 @@
 
-<h1 align="center">Olá 👋, Eu sou Rilton Bispo</h1>
-
-<h3 align="center">sou desenvolvedor Front-end , Bahia Brasil</h3>
+<h2 align="center">Olá 👋, Eu sou Rilton Bispo </br> sou desenvolvedor Front-end </h2>
 
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
@@ -29,11 +27,10 @@ Dê uma olhada em meu perfil no Dev.to😉
 const rilton = {
   code: [HTML5, CSS3, Sass, JavaScript, Tailwind ],
   tools: [React, Ruby on Rails, Node, Git, Figma, Wordpress],
+  learning: [TypeScript]
 }
 ```
  
 🔭 Estou trabalhando com <b>Front-end</b>
-</br>
-🔎 Estou estudando <b>ReactJs</b> & <b>TypeScript</b>
 
 
