@@ -4,10 +4,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="290">
 
-Vindo do mundo do design eu estou me aventurando nessa 
-jornada de desenvolvimento, sou desenvolvedor front end,
-mas meu desejo é ser um desenvolvedor 
-full stack.
+Estou embarcando na jornada do desenvolvimento, focando na área de front-end. Mas não quero parar por aí 🚀, meu objetivo é ser um desenvolvedor full stack e estou animado para aprender novas habilidades.
 
 
 
