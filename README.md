@@ -2,7 +2,7 @@
 <h2 align="center">Olá 👋, Eu sou Rilton Bispo </br> sou desenvolvedor Front-end </h2>
 
 
-<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="290">
+<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="295">
 
 Estou embarcando na jornada do desenvolvimento, focando na área de front-end. Mas não quero parar por aí 🚀, meu objetivo é ser um desenvolvedor full stack e estou animado para aprender novas habilidades.
 
