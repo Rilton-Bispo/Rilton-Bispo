@@ -12,7 +12,7 @@ Estou embarcando na jornada do desenvolvimento, focando na área de front-end. M
 const rilton = {
   code: [HTML5, CSS3, Sass, JavaScript, Ruby ],
   tools: [React, Rails, Node, Git, Figma, Wordpress, Tailwind],
-  learning: [TypeScript]
+  learning: [TypeScript, React]
 }
 ```
 
