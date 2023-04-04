@@ -10,9 +10,9 @@ Estou embarcando na jornada do desenvolvimento, focando na área de front-end. M
 
 ```javascript
 const rilton = {
-  code: [HTML5, CSS3, Sass, JavaScript, Ruby ],
+  code: [HTML5, CSS3, Sass, JavaScript, TypeScript, Ruby ],
   tools: [React, Rails, Node, Git, Figma, Wordpress, Tailwind],
-  learning: [TypeScript, React]
+  learning: [React]
 }
 ```
 
