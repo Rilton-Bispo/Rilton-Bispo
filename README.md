@@ -10,8 +10,8 @@ Atualmente focando na área de front-end. Mas não quero parar por aí 🚀, meu
 
 ```javascript
 const rilton = {
-  code: [HTML5, CSS3, Sass, JavaScript, TypeScript, Ruby ],
-  tools: [React, Rails, Node, Git, Figma, Wordpress, Tailwind],
+  code: [Sass, JavaScript, TypeScript, Ruby ],
+  tools: [React, Rails, Node, Git, Figma, Redux],
   learning: [React]
 }
 ```
