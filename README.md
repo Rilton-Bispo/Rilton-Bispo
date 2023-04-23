@@ -31,7 +31,10 @@ const rilton = {
   <a href="https://dev.to/riltonbispo" target="blank">
     <img align="center" height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
  </a>
+  
+![](https://komarev.com/ghpvc/?username=riltonbispo)
 </p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riltonbispo&theme=react&height=200&line=7B26E0&point=8d4ee0&hide_border=true&bg_color=0D1117&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
