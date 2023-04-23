@@ -31,8 +31,7 @@ const rilton = {
   <a href="https://dev.to/riltonbispo" target="blank">
     <img align="center" height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
  </a>
-  
-![](https://komarev.com/ghpvc/?username=riltonbispo)
+
 </p>
 
 
