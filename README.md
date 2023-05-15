@@ -24,7 +24,3 @@ const rilton = {
  </a>
 </p>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riltonbispo&theme=react&height=200&line=7B26E0&point=8d4ee0&hide_border=true&bg_color=0D1117&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
