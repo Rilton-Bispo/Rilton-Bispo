@@ -6,7 +6,7 @@
 const rilton = {
   code: [Sass, JavaScript, TypeScript, Ruby ],
   tools: [React, Rails, Node, Git, Figma, Redux],
-  learning: [React]
+  learning: [NextJs]
 }
 ```
 
