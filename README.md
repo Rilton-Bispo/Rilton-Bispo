@@ -5,7 +5,7 @@
 ```javascript
 const rilton = {
   code: [Sass, JavaScript, TypeScript, Ruby ],
-  tools: [React, Rails, Node, Git, Figma, Redux],
+  tools: [React, Rails, Node, Git, Tailwind, Redux, Figma],
   learning: [NextJs]
 }
 ```
