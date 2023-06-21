@@ -1,6 +1,5 @@
 
-
-<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=riltonbispo&layout=compact&hide_border=true&title_color=FFC233&text_color=ebcfb2&bg_color=0d1117" />
 
 ```javascript
 const rilton = {
@@ -23,4 +22,5 @@ const rilton = {
     <img align="center" height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
  </a>
 </p>
+
 
