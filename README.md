@@ -5,7 +5,7 @@
 const rilton = {
   code: [Sass, JavaScript, TypeScript, Ruby ],
   tools: [React, Rails, Node, Git, Tailwind, Redux, StoryBook],
-  learning: [mySql]
+  learning: [MySql]
 }
 ```
 
