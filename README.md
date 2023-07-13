@@ -1,23 +1,16 @@
-```javascript
-const rilton = {
-  code: [Sass, JavaScript, TypeScript, Ruby ],
-  tools: [React, Rails, Node, Git, Tailwind, Redux, StoryBook, MySQL],
-  learning: [NextJS]
-}
-```
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/riltonbispo" target="blank">
-    <img align="center" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <p>
+    <strong>Rilton | Front End Developer</strong>
+  </p>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,styledcomponents,github,tailwind,redux,sass,javascript,typescript" />
+  </br>
+    <img src="https://skillicons.dev/icons?i=rails,nodejs,mysql" />
   </a>
- 
-  <a href="https://riltonbispo.vercel.app/" target="blank">
-    <img align="center" height="20" src="https://img.shields.io/badge/Portfolio-ffc233?style=for-the-badge"/>
- </a>
- 
-  <a href="https://dev.to/riltonbispo" target="blank">
-    <img align="center" height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
- </a>
 </p>
 
 
