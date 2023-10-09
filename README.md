@@ -9,7 +9,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,styledcomponents,github,tailwind,sass,javascript,typescript,nextjs" />
   </br>
-    <img src="https://skillicons.dev/icons?i=rails,nodejs,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=rails,nodejs" />
   </a>
 </p>
 
