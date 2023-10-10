@@ -1,15 +1,16 @@
 
 <div align="center">
-  <p>
+  <h2>
     <strong>Rilton | Front End Developer</strong>
-  </p>
+  </h2>
 </div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,styledcomponents,github,tailwind,sass,javascript,typescript,nextjs" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,styledcomponents" />
   </br>
-    <img src="https://skillicons.dev/icons?i=rails,nodejs" />
+    <img src="https://skillicons.dev/icons?i=github,tailwind,sass,rails,nodejs" />
   </a>
 </p>
 
