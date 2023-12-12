@@ -14,4 +14,8 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://api.roadmap.sh/v1-badge/tall/657876165145316d25f2cb49?variant=dark" />
+  </a>
+</p>
