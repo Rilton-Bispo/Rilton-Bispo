@@ -6,6 +6,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,styledcomponents" />
   </br>
-    <img src="https://skillicons.dev/icons?i=github,tailwind,sass,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=tailwind,express,linux,nodejs,jest" />
   </a>
 </p>
