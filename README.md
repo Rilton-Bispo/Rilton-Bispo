@@ -1,4 +1,4 @@
-<h2 align="center">Fullstack Developer</h2>
+<h2 align="center"> Software Engineer</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
